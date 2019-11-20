@@ -9,7 +9,7 @@
         "react-scripts": "2.1.1"
     },
     "scripts": {
-        "install": "npm i --registry=http://registry.npm.taobao.org",
+        "dep:install": "npm i --registry=http://registry.npm.taobao.org",
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
